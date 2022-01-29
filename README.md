@@ -49,7 +49,7 @@ $ cd Dark
 $ ls
 $ git pull
 $ chmod +x *
-$ python DarkFb.py
+$ python2 DarkFb.py
 
  Tool Installation successful
 
@@ -67,7 +67,7 @@ git clone https://github.com/Aryan-mfc/Dark
 cd Dark
 git pull
 chmod +x *
-python DarkFb.py
+python2 DarkFb.py
 
  Tool Installation successful
 
@@ -82,7 +82,7 @@ git clone https://github.com/Aryan-mfc/Dark
 cd Dark
 git pull
 chmod +x *
-python DarkFb.py
+python2 DarkFb.py
 
 
 
@@ -108,7 +108,7 @@ git clone https://github.com/Aryan-mfc/Dark
 cd Dark
 git pull
 chmod +x *
-python DarkFb.py
+python2 DarkFb.py
 
 Tool Installation successful
 
